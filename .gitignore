@@ -1,0 +1,26 @@
+# Ignorar entronos virtuales
+.venv/
+venv/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs o temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de configuracion de IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de dependencias opcionales
+node_modules/
